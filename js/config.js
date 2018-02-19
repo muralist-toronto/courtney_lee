@@ -8,7 +8,7 @@ let CONFIG = {};
 // Artist id:
 CONFIG.uid = 'vn5UuEoilphUsKXMyNlsu0idGSz2';
 CONFIG.baseUrl = 'https://us-central1-art-auction-2ef27.cloudfunctions.net';
-CONFIG.subdomain = '';
+CONFIG.subdomain = 'courtney_lee';
 
 CONFIG.copy = {
     artistName: 'CourtneyLee',
